@@ -5,7 +5,7 @@
 
 Удаляем папку node_modules в app.
 
-Делаем делаем:
+Делаем:
 
 ```bash
 docker-compose up --build -d
